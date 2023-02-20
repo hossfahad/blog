@@ -12,7 +12,7 @@ paginate = 3
 
 [params]
   mainSections = ["posts"]
-  email = "mail@example.com"
+  email = "hoss.fahad@gmail.com"
   favicon = "icons/favicon.png"
   about = """
 Hi. I'm **Fahad**. 
@@ -28,7 +28,8 @@ If I find something cool in the world of Product Management, I'll write it down.
       href = "https://fahadhossa.in"
     [[params.links.link]]
       name = "Resume"
-      href = "/Resume.pdf"
+      href = "../fhoss-2023-resume.pdf"
+      new_tab = true
     [[params.links.link]]
       name = "Email"
       href = "hoss.fahad@gmail.com"
