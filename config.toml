@@ -1,0 +1,45 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Fahad Hossain | Blog"
+theme = "rocinante"
+paginate = 3
+
+[markup]
+  [markup.highlight]
+    style = "monokailight"
+  [markup.goldmark.renderer]
+    unsafe= true
+
+[params]
+  mainSections = ["posts"]
+  email = "mail@example.com"
+  favicon = "icons/favicon.png"
+  about = """
+Hi. I'm **Fahad**. 
+
+I'm a Product Manager with a history of finding value across various industries, from health-tech to fin-tech. Previous software experience in front-end development so sometimes I'll write on that as well. 
+
+If I find something cool in the world of Product Management, I'll write it down. Often times I may have others collaborate. I am also happy to review resumes, give career feedback and other general mentorship requests.
+"""
+
+  [[params.links]]
+    [[params.links.link]]
+      name = "Home"
+      href = "https://fahadhossa.in"
+    [[params.links.link]]
+      name = "Resume"
+      href = "/Resume.pdf"
+    [[params.links.link]]
+      name = "Email"
+      href = "hoss.fahad@gmail.com"
+      smart_email_link = true
+    [[params.links.link]]
+      name = "Medium"
+      href = "https://medium.com/@fahadhossain94"
+      new_tab = true
+    [[params.links.link]]
+      name = "Linkedin"
+      href = "https://linkedin.com/in/hossfahad"
+      new_tab = true
+
+
