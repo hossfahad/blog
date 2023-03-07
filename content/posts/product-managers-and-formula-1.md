@@ -1,11 +1,11 @@
 ---
-title: "From Pole Position to Product Launch: What Product Managers can learn from Formula 1"
+title: "From Pole Position to Product: What Product Managers can learn from Formula 1"
 tags: [Product Management, Tech, F1, Data]
 date: 2/24/2023
 ---
 * * * * *
 
-When I first started Product Management, an old co-worker compared the Product lead to a driver in a Grand Prix. A Grand Prix, is one of the many contests the teams perform in throughout the year in Formula 1 Racing. Ultimately, just like Sebastian Vettel and the best of them, you rely on the team: from the engineers, to the designer to the strategists, to ultimately take your place past the finish line with the car. 
+When I first started Product Management, an old co-worker compared the Product lead to a driver in a *Grand Prix*. A Grand Prix, is one of the many contests the teams perform in throughout the year in Formula 1 Racing. Ultimately, just like Sebastian Vettel and the best of them, you rely on the team: from the engineers, to the designer to the strategists, to ultimately take your place past the finish line with the car. 
 <!--more-->
 ![](https://cdn-images-1.medium.com/max/1600/1*CjUCSrlpoABbwSmLKRJg3g.jpeg)
 
